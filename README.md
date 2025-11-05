@@ -1,4 +1,4 @@
-# Biologie-MC : Le rôle des microARN et cancer
+# Biologie-MC : Le rôle des microARN et cancer 🧬
 Ce projet présente une étude sur le rôle des microARN dans la régulation de l’expression génique et leur implication dans les cancers humains.
 Il s’inscrit dans le cadre du module de Biologie Moléculaire et Cellulaire (M1 SNV) et vise à illustrer l’usage des outils de recherche et de documentation scientifique.
 # Objectifs 
